@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
-<h3 align="center">C# developer and traveler sometimes</h3>
+<h3 align="center">C# developer, Java enthusiast and traveler sometimes</h3>
 
 ![Português](https://img.shields.io/badge/-Português%20(BR)-green)
 ![Inglês](https://img.shields.io/badge/-Inglês%20(Avançado)-blue)
