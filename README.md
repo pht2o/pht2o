@@ -3,6 +3,7 @@
 
 ![Português](https://img.shields.io/badge/-Português%20(BR)-green)
 ![Inglês](https://img.shields.io/badge/-Inglês%20(Avançado)-blue)
+![English](https://img.shields.io/badge/-English%20-blue)
 
 
 <!--
