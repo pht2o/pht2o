@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
+<h3 align="center">C# developer and traveler sometimes</h3>
 
 <!--
 **pht2o/pht2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
